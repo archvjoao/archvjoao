@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3E2E,100:6B8E5A&height=180&section=header&text=archvjoao&fontSize=42&fontColor=E8E4D8&animation=fadeIn&fontAlignY=38&desc=Iniciando%20carreira%20em%20TI%20%7C%20DevOps%20%2F%20Infra&descAlignY=58&descSize=16" />
+<img width="100%" src="./assets/archvjoao-logo.svg" alt="Archvjoao" />
 
 <a href="https://github.com/archvjoao">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8FA97A&center=true&vCenter=true&width=500&lines=Estudante+de+ADS+%40+Fatec+Mococa;Docker+%2B+Terraform+%2B+CI%2FCD+%2B+Kubernetes;Terminal-first+%7C+Fedora+44" />
