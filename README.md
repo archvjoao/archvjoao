@@ -1,4 +1,4 @@
-## `01` · sobre mim
+## `01` · Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec Mococa**, iniciando minha carreira em TI com foco em **DevOps e infraestrutura**.
 
@@ -6,7 +6,7 @@ Estou construindo uma base sólida em cultura DevOps, automação, infraestrutur
 
 Meu objetivo é aprender de forma prática, documentar minha evolução e transformar cada etapa dos estudos em conhecimento aplicável.
 
-## `02` · formação
+## `02` · Formação
 
 | Formação | Status |
 | --- | --- |
@@ -15,7 +15,7 @@ Meu objetivo é aprender de forma prática, documentar minha evolução e transf
 
 A graduação contribui para minha base em desenvolvimento e tecnologia, enquanto a Formação DevOps complementa meus estudos com práticas relacionadas a ambientes, automação, containers e entrega de software.
 
-## `03` · stack
+## `03` · Stack
 
 ### Conhecimentos atuais
 
@@ -39,7 +39,7 @@ A graduação contribui para minha base em desenvolvimento e tecnologia, enquant
   <img src="https://img.shields.io/badge/Observabilidade-0e120c?style=for-the-badge&logo=grafana&logoColor=8fb870" alt="Observabilidade" />
 </div>
 
-## `04` · trilha de estudos
+## `04` · Trilha de estudos
 
 | Nível | Foco | Tecnologias | Status |
 | --- | --- | --- | --- |
