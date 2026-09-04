@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./header.svg" alt="Cabeçalho do perfil archvjoão" width="100%" />
+<img src="./header-panorama-archvjoao-wide.png" alt="Cabeçalho do perfil archvjoão" width="100%" />
 </div>   
 
 
