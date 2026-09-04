@@ -1,8 +1,3 @@
-<div align="center">
-<img src="./header-panorama-archvjoao-wide.png" alt="Cabeçalho do perfil archvjoão" width="100%" />
-</div>   
-
-
 ## `01` · sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec Mococa**, iniciando minha carreira em TI com foco em **DevOps e infraestrutura**.
