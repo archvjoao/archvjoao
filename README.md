@@ -26,7 +26,6 @@ A graduação contribui para minha base em desenvolvimento e tecnologia, enquant
   <img src="https://img.shields.io/badge/Docker_Compose-0e120c?style=for-the-badge&logo=docker&logoColor=8fb870" alt="Docker Compose" />
   <img src="https://img.shields.io/badge/HTML5-0e120c?style=for-the-badge&logo=html5&logoColor=8fb870" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0e120c?style=for-the-badge&logo=css3&logoColor=8fb870" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-0e120c?style=for-the-badge&logo=javascript&logoColor=8fb870" alt="JavaScript" />
 </div>
 
 ### Em aprendizado
