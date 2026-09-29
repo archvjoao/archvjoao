@@ -8,37 +8,22 @@ Meu objetivo é aprender de forma prática, documentar minha evolução e transf
 
 ## `02` · Stack
 
-### Conhecimentos atuais
+### Meu foco atual
 
 <div align="left">
-<img src="https://img.shields.io/badge/Linux-0e120c?style=for-the-badge&logo=linux&logoColor=8fb870" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-0e120c?style=for-the-badge&logo=git&logoColor=8fb870" alt="Git" />
+  <img src="https://img.shields.io/badge/Java-0e120c?style=for-the-badge&logo=coffeescript&logoColor=8fb870" alt="Java" />
+  <img src="https://img.shields.io/badge/Lógica_de_Programação-0e120c?style=for-the-badge&logo=codeforces&logoColor=8fb870" alt="Lógica de Programação" />
   <img src="https://img.shields.io/badge/Docker-0e120c?style=for-the-badge&logo=docker&logoColor=8fb870" alt="Docker" />
-  <img src="https://img.shields.io/badge/Docker_Compose-0e120c?style=for-the-badge&logo=docker&logoColor=8fb870" alt="Docker Compose" />
-  <img src="https://img.shields.io/badge/HTML5-0e120c?style=for-the-badge&logo=html5&logoColor=8fb870" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0e120c?style=for-the-badge&logo=css3&logoColor=8fb870" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git_&_GitHub-0e120c?style=for-the-badge&logo=github&logoColor=8fb870" alt="Git e GitHub" />
+  <img src="https://img.shields.io/badge/Linux-0e120c?style=for-the-badge&logo=linux&logoColor=8fb870" alt="Linux" />
 </div>
 
-### Em aprendizado
+## `03` · Cursos alternativos e Livros
 
-<div align="left">
-<img src="https://img.shields.io/badge/Terraform-0e120c?style=for-the-badge&logo=terraform&logoColor=8fb870" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0e120c?style=for-the-badge&logo=microsoftazure&logoColor=8fb870" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0e120c?style=for-the-badge&logo=githubactions&logoColor=8fb870" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Kubernetes-0e120c?style=for-the-badge&logo=kubernetes&logoColor=8fb870" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Observabilidade-0e120c?style=for-the-badge&logo=grafana&logoColor=8fb870" alt="Observabilidade" />
-</div>
-
-## `03` · Trilha de estudos
-
-| Nível | Foco | Tecnologias | Status |
-| --- | --- | --- | --- |
-| **01** | Fundamentos + Docker | Linux, Docker, Docker Compose, Git | **Em andamento** |
-| **02** | Infraestrutura como código | Terraform, Azure | **Não iniciado** |
-| **03** | CI/CD | GitHub Actions | **Não iniciado** |
-| **04** | Orquestração | Kubernetes | **Não iniciado** |
-| **05** | Observabilidade | Logs, métricas e alertas | **Não iniciado** |
-
+| Tipo | Título | Autor / Instituição | Status |
+|:--|:--|:--|:--|
+| Livro | Use a Cabeça! Java (3ª ed.) | Kathy Sierra, Bert Bates & Trisha Gee · Alta Books | Lendo |
+| Curso | [Java Programming (MOOC)](https://java-programming.mooc.fi/) | Universidade de Helsinque | Cursando |
 
 <div align="center">
   <sub>aprendendo sempre · construindo sempre · documentando o caminho</sub>
