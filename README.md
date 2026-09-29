@@ -1,21 +1,12 @@
 ## `01` · Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec Mococa**, iniciando minha carreira em TI com foco em **DevOps e infraestrutura**.
+Sou estudante do 1º período de **Análise e Desenvolvimento de Sistemas na Fatec Mococa**, iniciando minha carreira em TI.
 
-Estou construindo uma base sólida em cultura DevOps, automação, infraestrutura como código e observabilidade. Meu ambiente de estudos é **terminal-first**, utilizando **Fedora 44**, com uma rotina aproximada de **11,5 horas de estudo por semana**.
+Também dedico meu tempo livre ao estudo da cultura DevOps, devido ao meu interesse em seguir nessa área futuramente. Meu ambiente de estudos é **terminal-first**, utilizando **Linux Mint 22.3 (XFCE)**, com uma rotina diária e constante de estudos.
 
 Meu objetivo é aprender de forma prática, documentar minha evolução e transformar cada etapa dos estudos em conhecimento aplicável.
 
-## `02` · Formação
-
-| Formação | Status |
-| --- | --- |
-| **Análise e Desenvolvimento de Sistemas — Fatec Mococa** | Em andamento |
-| **Formação DevOps — Rocketseat** | Em andamento |
-
-A graduação contribui para minha base em desenvolvimento e tecnologia, enquanto a Formação DevOps complementa meus estudos com práticas relacionadas a ambientes, automação, containers e entrega de software.
-
-## `03` · Stack
+## `02` · Stack
 
 ### Conhecimentos atuais
 
@@ -38,7 +29,7 @@ A graduação contribui para minha base em desenvolvimento e tecnologia, enquant
   <img src="https://img.shields.io/badge/Observabilidade-0e120c?style=for-the-badge&logo=grafana&logoColor=8fb870" alt="Observabilidade" />
 </div>
 
-## `04` · Trilha de estudos
+## `03` · Trilha de estudos
 
 | Nível | Foco | Tecnologias | Status |
 | --- | --- | --- | --- |
