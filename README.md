@@ -2,7 +2,7 @@
 
 Sou estudante do 1º período de **Análise e Desenvolvimento de Sistemas na Fatec Mococa**, iniciando minha carreira em TI.
 
-Também dedico meu tempo livre ao estudo da cultura DevOps, devido ao meu interesse em seguir nessa área futuramente. Meu ambiente de estudos é **terminal-first**, utilizando **Linux Mint 22.3 (XFCE)**, com uma rotina diária e constante de estudos.
+Também dedico meu tempo livre ao estudo de **Java**, linguagem que escolhi como minha principal para o futuro. Meu ambiente de estudos é **terminal-first**, utilizando **Linux Mint 22.3 (XFCE)**, com uma rotina diária e constante de estudos.
 
 Meu objetivo é aprender de forma prática, documentar minha evolução e transformar cada etapa dos estudos em conhecimento aplicável.
 
